@@ -3,11 +3,13 @@ ICS Student Council was founded by students to better serve the ICS student body
 We work to improve the lives of the students professionally, socially, and academically and deepen the connections students have with the Donald Bren School of Information and Computer Sciences and UCI Alumni.
 
 ## Open Source Projects
-- [AntAlmanac](https://antalmanac.com)
-- [PeterPortal](https://peterportal.org)
-- [PeterPortal API](https://api.peterportal.org)
-- [Zotistics](https://zotistics.com)
-- [Fellowship](https://fellowship.icssc.club)
+- [AntAlmanac](https://antalmanac.com) ([GitHub](https://github.com/icssc/AntAlmanac))
+- [PeterPortal](https://peterportal.org) ([GitHub](https://github.com/icssc/peterportal-client))
+- [PeterPortal API](https://docs.icssc.club/ppapi) ([GitHub](https://github.com/icssc/peterportal-api-next))
+- [Zotistics](https://zotistics.com) ([GitHub](https://github.com/icssc/Zotistics))
+- [ZotMeal](https://www.zotmeal.com/) ([GitHub](https://github.com/icssc/ZotMeal))
+- [ZotNFound](https://zotnfound.com/)
+- [Fellowship](https://fellowship.icssc.club) ([GitHub](https://github.com/icssc/fellowship))
 
 ## Get Involved
 Anyone is welcome to contribute to our projects! 
