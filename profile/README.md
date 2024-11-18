@@ -6,11 +6,12 @@ We work to improve the lives of the students professionally, socially, and acade
 ## Open Source Projects
 
 - [AntAlmanac](https://antalmanac.com) ([GitHub](https://github.com/icssc/AntAlmanac))
+- [Anteater API](https://docs.icssc.club/docs/developer/anteaterapi) ([GitHub](https://github.com/icssc/anteater-api))
 - [PeterPortal](https://peterportal.org) ([GitHub](https://github.com/icssc/peterportal-client))
-- [PeterPortal API](https://docs.icssc.club/ppapi) ([GitHub](https://github.com/icssc/peterportal-api-next))
 - [Zotistics](https://zotistics.com) ([GitHub](https://github.com/icssc/Zotistics))
 - [ZotMeal](https://www.zotmeal.com/) ([GitHub](https://github.com/icssc/ZotMeal))
-- [ZotNFound](https://zotnfound.com/) ([GitHub](https://github.com/icssc/ZotNFound-frontend))
+- ZotMeet ([GitHub](https://github.com/icssc/ZotMeet))
+- [ZotNFound](https://zotnfound.com/) ([GitHub](https://github.com/icssc/ZotNFound))
 - [Fellowship](https://fellowship.icssc.club) ([GitHub](https://github.com/icssc/fellowship))
 
 ## Get Involved
