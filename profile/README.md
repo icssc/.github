@@ -9,8 +9,8 @@ We work to improve the lives of the students professionally, socially, and acade
 - [Anteater API](https://docs.icssc.club/docs/developer/anteaterapi) ([GitHub](https://github.com/icssc/anteater-api))
 - [PeterPortal](https://peterportal.org) ([GitHub](https://github.com/icssc/peterportal-client))
 - [Zotistics](https://zotistics.com) ([GitHub](https://github.com/icssc/Zotistics))
-- [ZotMeal](https://www.zotmeal.com/) ([GitHub](https://github.com/icssc/ZotMeal))
-- ZotMeet ([GitHub](https://github.com/icssc/ZotMeet))
+- [PeterPlate](https://www.peterplate.com/) ([GitHub](https://github.com/icssc/PeterPlate))
+- [ZotMeet](https://www.zotmeet.com/) ([GitHub](https://github.com/icssc/ZotMeet))
 - [ZotNFound](https://zotnfound.com/) ([GitHub](https://github.com/icssc/ZotNFound))
 - [Fellowship](https://fellowship.icssc.club) ([GitHub](https://github.com/icssc/fellowship))
 
