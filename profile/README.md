@@ -25,5 +25,5 @@ Checkout the [ICSSC Fellowship](https://fellowship.icssc.club) Web Dev Crash Cou
 ## Connect with us
 
 - Join our Projects Discord: https://discord.gg/GzF76D7UhY
-- Join the ICSSC Discord: https://icssc.club/discord
+- Join the ICSSC Discord: https://discord.com/invite/c4t5dGcM9S
 - Visit our website: https://icssc.club
