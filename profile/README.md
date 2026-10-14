@@ -5,10 +5,9 @@ We work to improve the lives of the students professionally, socially, and acade
 
 ## Open Source Projects
 
-- [AntAlmanac](https://antalmanac.com) ([GitHub](https://github.com/icssc/AntAlmanac))
+- [AntAlmanac Scheduler](https://antalmanac.com) ([GitHub](https://github.com/icssc/AntAlmanac))
+- [AntAlmanac Planner](https://antalmanac.com/planner) ([GitHub](https://github.com/icssc/AntAlmanac))
 - [Anteater API](https://docs.icssc.club/docs/developer/anteaterapi) ([GitHub](https://github.com/icssc/anteater-api))
-- [PeterPortal](https://peterportal.org) ([GitHub](https://github.com/icssc/peterportal-client))
-- [Zotistics](https://zotistics.com) ([GitHub](https://github.com/icssc/Zotistics))
 - [PeterPlate](https://www.peterplate.com/) ([GitHub](https://github.com/icssc/PeterPlate))
 - [ZotMeet](https://www.zotmeet.com/) ([GitHub](https://github.com/icssc/ZotMeet))
 - [ZotNFound](https://zotnfound.com/) ([GitHub](https://github.com/icssc/ZotNFound))
@@ -25,5 +24,5 @@ Checkout the [ICSSC Fellowship](https://fellowship.icssc.club) Web Dev Crash Cou
 ## Connect with us
 
 - Join our Projects Discord: https://discord.gg/GzF76D7UhY
-- Join the ICSSC Discord: https://icssc.club/discord
+- Join the ICSSC Discord: https://icssc.link/discord
 - Visit our website: https://icssc.club
